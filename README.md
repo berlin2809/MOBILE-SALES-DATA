@@ -37,6 +37,5 @@ Edit
 4. Use slicers to interact with different views of the data.
 
 📸 Preview
-
-> *(Add a screenshot in repo and update this path)*  
-![Dashboard Preview](image.jepg)
+ 
+![Dashboard Preview](image.jpg)
