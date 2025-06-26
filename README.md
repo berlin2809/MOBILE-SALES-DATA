@@ -39,4 +39,4 @@ Edit
 📸 Preview
 
 > *(Add a screenshot in repo and update this path)*  
-![Dashboard Preview](mobile_dashboard.png)
+![Dashboard Preview](image.jepg)
