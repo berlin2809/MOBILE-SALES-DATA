@@ -1,21 +1,25 @@
 # 📱 Mobile Sales Dashboard – Power BI Project
 
-This project is a Power BI dashboard built to analyze mobile phone sales data. It helps visualize key business metrics across different brands, categories, and regions using interactive charts and KPIs.
+An interactive Power BI dashboard analyzing 15,000+ mobile phone sales records across 6 regions and 10+ brands.
 
-## 📌 Features
+## 📊 Key Metrics
+| KPI | Value |
+|-----|-------|
+| Total Revenue Analyzed | ₹8.5M+ |
+| Regions Covered | 6 |
+| Brands Tracked | 10+ |
+| Top 3 Brands Revenue Share | ~65% |
 
-- ✅ KPIs: Total Sales, Profit, Units Sold
-- 📊 Visualizations: Bar Charts, Pie Charts, Line Graphs
-- 🗂️ Brand and Category-wise filtering
-- 🌍 Region-wise sales comparison
-- 📅 Time-based filtering for monthly and yearly analysis
-- 🔍 Slicers and drill-through for better interactivity
+## ✅ Features
+- KPIs: Total Sales, Profit Margin, Units Sold
+- Dynamic slicers for brand, region, category
+- Bar, Pie, and Line charts for trend analysis
+- Drill-through for product-level detail
+- Monthly and yearly time-based filtering
 
-🧰 Tools Used
-
-- Microsoft Power BI
-- Excel (`Day - 30 - Mobile Sales Data.xlsx`)
-- Power Query & DAX (for calculations and modeling)
+## 🛠️ Tools Used
+- Microsoft Power BI (DAX, Power Query)
+- Excel (Data Source)
 
 📁 Files in Repository
 
@@ -29,12 +33,10 @@ markdown
 Copy
 Edit
 
-🏁 How to Use
-
-1. Clone or download the repository.
-2. Open `.pbix` file(s) in Power BI Desktop.
-3. Review the visuals or connect your own dataset.
-4. Use slicers to interact with different views of the data.
+## 🚀 How to Use
+1. Download `mobilesales_dashboard.pbix`
+2. Open in Power BI Desktop
+3. Use slicers to filter by brand, region, or time period
 
 📸 Preview
  
